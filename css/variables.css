@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.codebox {
+    background-color: grey;
+    border-radius: 20px;
+    padding: 1px 20px 20px 20px;
+}
+
+.code_name {
+    font-family: Arial;
+}
+
+code {
+    /* background-color: rgb(185, 176, 176); */
+    padding: 1px 0 0 0;
+    display: flex;
+    border-radius: 2px;
+    font-family: cursive;
+}
